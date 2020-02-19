@@ -1,0 +1,38 @@
+
+
+Every good programmer knows several computer languages, because some things that are difficult (or impossible!) to do in one language are easy (or at least possible) in another, and vice versa.
+
+Taking advice from
+
+http://wiki.c2.com/?FreshmansFirstLanguage["Freshmans First Language: What programming language should we teach freshmen first?"]
+
+I think I'm going to recommed starting with
+
+* Python, for both general-purpose apps and dynamic web pages
+(Merging the forked Wikibooks 
+https://en.wikibooks.org/wiki/Think_Python
+https://en.wikibooks.org/wiki/How_to_Think_Like_a_Computer_Scientist:_Learning_with_Python_2nd_Edition
+)
+
+* HTML
+* CSS
+* regex
+
+and then later, if you want to go into more depth,
+
+* Circuit Python
+* "Arduino" (C++) ?
+* ASCIIdoc
+* nginx or lighttpd ?
+* PM2 ?
+
+
+
+
+(Some recomended documentation practices:
+
+* https://github.com/asciidoctor/asciidoctor.org/blob/master/docs/asciidoc-recommended-practices.adoc["AsciiDoc Recommended Practices"]
+* https://docs.gitlab.com/ee/development/documentation/styleguide.html["Making READMEs readable"]
+
+)
+
