@@ -1,10 +1,15 @@
 
 
+Educational computer language resources, links, etc.
+
 Every good programmer knows several computer languages, because some things that are difficult (or impossible!) to do in one language are easy (or at least possible) in another, and vice versa.
+
+Syllabus
 
 Taking advice from
 
 http://wiki.c2.com/?FreshmansFirstLanguage["Freshmans First Language: What programming language should we teach freshmen first?"]
+
 
 I think I'm going to recommed starting with
 
@@ -13,19 +18,54 @@ I think I'm going to recommed starting with
 https://en.wikibooks.org/wiki/Think_Python
 https://en.wikibooks.org/wiki/How_to_Think_Like_a_Computer_Scientist:_Learning_with_Python_2nd_Edition
 )
-
 * HTML
+
+with perhaps some simple spirals / beeps / games?
+
+Then the fairly important widely-used domain-specific languages (DSL)
+
 * CSS
 * regex
 
+perhaps building a demo website under the GNU Affero General Public License that complies with that license
+in an unnecessarily complex way by,
+quine-like,
+both executing the dynamic website normally
+and also allowing a user to download a copy of the currently-running Python script(s).
+(Also do the normal thing and simply link to the upstream repository).
+
+* crontab
+to pull the latest version of the website from gitlab or github upstream repository.
+
 and then later, if you want to go into more depth,
+
+some discussion on the distinction between
+
+* fully general-purpose programming language and
+* more limited domain-specific languages and
+* even more limited markup languages,
+
+and some discussion on why *don't* we write everything in the "most powerful" language:
+
+* "principle of least power"
+* common things in a very specialized domains are quicker (?) to express with a DSL ("more expressive") than expressing the same thing in a general-purpose programming language.
+* Many simple tools, loosely coupled: the https://en.wikipedia.org/wiki/Unix_philosophy["Unix philosophy"], command-line pipeline, and bash scripting
+
+Lower-level languages:
 
 * Circuit Python
 * "Arduino" (C++) ?
+
+Higher-level languages
+
 * ASCIIdoc
 * nginx or lighttpd ?
 * PM2 ?
+* R Studio
+* Octave ?
 
+* "Android Studio" (Kotlin or Java?)
+** Some free self-paced online courses on Android app development at https://developers.slashdot.org/story/19/05/17/2355248/google-pushes-kotlin-over-java-for-android-development )
 
 
 
