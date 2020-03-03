@@ -22,6 +22,12 @@ https://en.wikibooks.org/wiki/How_to_Think_Like_a_Computer_Scientist:_Learning_w
 
 with perhaps some simple spirals / beeps / games?
 
+Programming tools:
+* text editor (vim, emacs, etc)
+* single-step debuggers (JavaScript debuggers; Spyder-IDE Python debugger, etc.)
+* mercurial, TortoiseHG, git, etc. with gitlab, github, etc.
+** https://guides.github.com/activities/hello-world/["GitHub Guides: Hello World"]
+
 Then the fairly important widely-used domain-specific languages (DSL)
 
 * CSS
@@ -59,13 +65,24 @@ Lower-level languages:
 Higher-level languages
 
 * ASCIIdoc
+* https://en.wikibooks.org/wiki/Web_Programming["Web Programming"] -- JavaScript, etc.
+** Object-oriented programming in JavaScript
 * nginx or lighttpd ?
 * PM2 ?
 * R Studio
 * Octave ?
 
+* Android (all the following should probably be moved to https://en.wikibooks.org/wiki/Android )
 * "Android Studio" (Kotlin or Java?)
 ** Some free self-paced online courses on Android app development at https://developers.slashdot.org/story/19/05/17/2355248/google-pushes-kotlin-over-java-for-android-development )
+** https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012["free course: Developing Android Apps with Kotlin. by Google"] via https://android-developers.googleblog.com/2019/12/kotlineverywhere-its-wrap.html["Kotlin/Everywhere ... the potential of using Kotlin everywhere; on Android, servers, web front-end and other platforms."] which has a lot of links to Kotlin resources
+** https://www.udacity.com/course/developing-android-apps-with-kotlin--ud940["free course: Advanced Android with Kotlin. by Google"] via https://android-developers.googleblog.com/2019/12/our-highlights-from-android-google-play.html["Our highlights from Android & Google Play in 2019 - building for the next decade"]
+** "So if you’re starting a new project, you should try writing it in Kotlin; ... We are aiming to help learn the essentials and best practices of using Kotlin everywhere, be it for Android, back-end, front-end and other platforms." -- https://android-developers.googleblog.com/2019/05/kotlin-is-everywhere-join-global-event.html["Kotlin Is Everywhere! Join the global event series"]
+* https://www.techrepublic.com/article/how-to-learn-kotlin-a-resources-guide-for-developers/["How to learn Kotlin: A resources guide for developers"] -- where to start?
+** https://discuss.kotlinlang.org/
+* Android development using cross-platform frameworks
+** https://en.wikipedia.org/wiki/Ionic_(mobile_app_framework)[Ionic (mobile app framework)]
+** https://en.wikibooks.org/wiki/Android/PhoneGap[Apache Cordova (PhoneGap)]
 
 
 
